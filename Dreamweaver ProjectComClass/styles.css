@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+.page-container {
+    background-color: #ffffff;
+    width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+}
+footer {
+    height: 48px;
+    padding-top: 12px;
+    padding-bottom: 13px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    float: none;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #18A3E8;
+}
+
+header {
+    background-color: #79DC4D;
+}
+nav {
+    background-color: #F131D5;
+    width: 900px;
+    margin-bottom: 0px;
+    height: 48px;
+}
+main {
+    padding-left: 15px;
+    background-color: #FFFFFF;
+    padding-right: 15px;
+}
+.content-container {
+    background-color: #0AD4FA;
+    padding-left: 15px;
+    width: 540px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin: 0;
+    padding-right: 15px;
+    float: left;
+}
+.sidebar {
+    width: 270px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+}
+nav ul {
+    padding: 0;
+    margin: 0;
+    height: 48px;
+    list-style-type: none;
+}
+nav ul li {
+    float: left;
+    text-align: center;
+    width: 180px;
+    background-color: #18A3E8;
+    color: #1E0ACD;
+    line-height: 48px;
+    display: block;
+}
+nav ul li a {
+    text-decoration: none;
+}
+
+.image-border {
+    border: 5px solid #000000;
+}
+.winners {
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    list-style-type: none;
+}
+body {
+    background-color: #bda188;
+
+}
+
+.winners ul {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.winners li {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 9px;
+    float: left;
+
+}
+.scorers {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    list-style-type: none;
+}
+.scorers ul {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.scorers li {
+    float: left;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+}
